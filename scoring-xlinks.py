@@ -1,6 +1,7 @@
 # ScoringXlinks.py
 # This script was implemented to run within IMP software package 
-# Documentation nd information on how to run it can be found where:
+#  It was written by A .Politis, King's College London
+# Documentation and information on how to run it can be found where:
 # https://github.com/integrativemodeling/hybrid_ms_method
 # This script scores the violation of cross-links in the
 # candidate model structures
